@@ -1,0 +1,13 @@
+{
+    "data": "2025-10-27",
+    "area": "São Carlos",
+    "quarteirao": "415",
+    "endereco": "Rua Episcopal",
+    "situacao": "trab",
+    "medidasDeControle": "trab",
+    "recepientes":{
+        "tipo": "30",
+        "quantidade": "10"
+    },
+    "larvas": "false"
+}

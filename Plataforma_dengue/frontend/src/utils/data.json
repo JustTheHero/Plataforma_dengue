@@ -1,0 +1,34 @@
+[
+  {
+    "nome": "Rua Episcopal",
+    "numero": "2400",
+    "cidade": "São Carlos",
+    "casos": 12,
+    "nivelRisco": "Alto",
+    "tipoTrabalho":"trab"
+  },
+  {
+    "nome": "Avenida trabalhador são carlense",
+    "numero": "10",
+    "cidade": "São Carlos",
+    "casos": 5,
+    "nivelRisco": "Médio",
+    "tipoTrabalho":"F"
+  },
+  {
+    "nome": "Avenida são carlos",
+    "numero": "100",
+    "cidade": "São Carlos",
+    "casos": 2,
+    "nivelRisco": "Baixo",
+    "tipoTrabalho":"D"
+  },
+  {
+    "nome":"avenida Paulista",
+    "numero":"10",
+    "cidade":"São Paulo",
+    "casos":1,
+    "nivelRisco":"Alto",
+    "tipoTrabalho":"F"
+  }
+]
